@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center">Search Results</h2>
+
+       <!-- Filter Options -->
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <label for="sort_by"><strong>Sort results by: </strong></label>
+                <form action="{{ url_for('search', query=query, search_option=search_option, algorithm=algorithm) }}" method="get">
+                    <input type="hidden" name="query" value="{{ query }}">
+                    <input type="hidden" name="search_option" value="{{ search_option }}">
+                    <input type="hidden" name="algorithm" value="{{ algorithm }}">
+                    <div class="input-group">
+                        <select class="form-control" id="sort_by" name="sort_by">
+                            <option value="date">Date</option>
+                            <option value="author">Author</option>
+                            <option value="title">Title</option>
+                        </select>
+                        <div class="input-group-append">
+                            <label>&nbsp;</label>
+                            <button type="submit" class="btn btn-primary">Apply Filters</button>
+                        </div>
+
+                    </div>
+
+                </form>
+
+            </div>
+            <div class="col-md-6 text-right mt-4" >
+                <a href="{{ url_for('index') }}" class="btn btn-secondary">Go Back</a>
+            </div>
+        </div>
+
+        {% if results %}
+            <ul class="list-group">
+                {% for result in results %}
+                    <li class="list-group-item">
+                        <h3>{{ result.Title }}</h3>
+                        <p class="mb-1">{{ result.Authors }}</p>
+                        <p class="mb-1">{{ result.Date }}</p>
+                        <p class="mb-1">{{ result.Abstract }}</p>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p class="text-center">No results found.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

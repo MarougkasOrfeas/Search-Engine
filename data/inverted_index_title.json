@@ -1,0 +1,3074 @@
+{
+    "deep": {
+        "documents": [
+            0,
+            11
+        ]
+    },
+    "learning": {
+        "documents": [
+            0,
+            3,
+            6,
+            11,
+            21,
+            22,
+            55,
+            74,
+            94
+        ]
+    },
+    "challenge": {
+        "documents": [
+            0,
+            26,
+            70,
+            77
+        ]
+    },
+    "design": {
+        "documents": [
+            0,
+            16,
+            47,
+            68
+        ]
+    },
+    "result": {
+        "documents": [
+            0
+        ]
+    },
+    "topological": {
+        "documents": [
+            0
+        ]
+    },
+    "2023": {
+        "documents": [
+            0
+        ]
+    },
+    "icml": {
+        "documents": [
+            0
+        ]
+    },
+    "feature": {
+        "documents": [
+            1
+        ]
+    },
+    "approach": {
+        "documents": [
+            1,
+            10,
+            60,
+            83
+        ]
+    },
+    "determining": {
+        "documents": [
+            1
+        ]
+    },
+    "food": {
+        "documents": [
+            1
+        ]
+    },
+    "cold": {
+        "documents": [
+            1
+        ]
+    },
+    "reorder": {
+        "documents": [
+            1
+        ]
+    },
+    "warehouse": {
+        "documents": [
+            1
+        ]
+    },
+    "item": {
+        "documents": [
+            1
+        ]
+    },
+    "point": {
+        "documents": [
+            1,
+            54
+        ]
+    },
+    "datadriven": {
+        "documents": [
+            1
+        ]
+    },
+    "optimal": {
+        "documents": [
+            1
+        ]
+    },
+    "optimization": {
+        "documents": [
+            1,
+            2,
+            47
+        ]
+    },
+    "size": {
+        "documents": [
+            1
+        ]
+    },
+    "lot": {
+        "documents": [
+            1
+        ]
+    },
+    "quality": {
+        "documents": [
+            1
+        ]
+    },
+    "method": {
+        "documents": [
+            2,
+            17,
+            40,
+            75,
+            82
+        ]
+    },
+    "consensus": {
+        "documents": [
+            2
+        ]
+    },
+    "distributed": {
+        "documents": [
+            2
+        ]
+    },
+    "predictioncorrection": {
+        "documents": [
+            2
+        ]
+    },
+    "projectionbased": {
+        "documents": [
+            2
+        ]
+    },
+    "communication": {
+        "documents": [
+            3
+        ]
+    },
+    "machine": {
+        "documents": [
+            3,
+            21,
+            99
+        ]
+    },
+    "quick": {
+        "documents": [
+            3
+        ]
+    },
+    "wireless": {
+        "documents": [
+            3
+        ]
+    },
+    "primer": {
+        "documents": [
+            3
+        ]
+    },
+    "heterogeneous": {
+        "documents": [
+            4
+        ]
+    },
+    "eipy": {
+        "documents": [
+            4
+        ]
+    },
+    "python": {
+        "documents": [
+            4,
+            31,
+            33,
+            41,
+            44,
+            50,
+            53,
+            71,
+            76,
+            81,
+            87,
+            96
+        ]
+    },
+    "opensource": {
+        "documents": [
+            4
+        ]
+    },
+    "multimodal": {
+        "documents": [
+            4
+        ]
+    },
+    "ensemble": {
+        "documents": [
+            4
+        ]
+    },
+    "package": {
+        "documents": [
+            4,
+            50,
+            96,
+            99
+        ]
+    },
+    "integration": {
+        "documents": [
+            4,
+            73
+        ]
+    },
+    "data": {
+        "documents": [
+            4,
+            46,
+            57,
+            64,
+            73,
+            91,
+            97,
+            99
+        ]
+    },
+    "using": {
+        "documents": [
+            4,
+            6,
+            43,
+            54,
+            64,
+            74,
+            78,
+            91,
+            92
+        ]
+    },
+    "relatively": {
+        "documents": [
+            5
+        ]
+    },
+    "ksat": {
+        "documents": [
+            5
+        ]
+    },
+    "clause": {
+        "documents": [
+            5
+        ]
+    },
+    "complete": {
+        "documents": [
+            5
+        ]
+    },
+    "random": {
+        "documents": [
+            5,
+            68
+        ]
+    },
+    "dense": {
+        "documents": [
+            5
+        ]
+    },
+    "sarriguren": {
+        "documents": [
+            5
+        ]
+    },
+    "algorithm": {
+        "documents": [
+            5,
+            55
+        ]
+    },
+    "polynomialtime": {
+        "documents": [
+            5
+        ]
+    },
+    "llmbased": {
+        "documents": [
+            6,
+            61
+        ]
+    },
+    "code": {
+        "documents": [
+            6,
+            12,
+            14,
+            15,
+            26,
+            37,
+            61,
+            62,
+            65,
+            67,
+            69,
+            91
+        ]
+    },
+    "cotran": {
+        "documents": [
+            6
+        ]
+    },
+    "reinforcement": {
+        "documents": [
+            6,
+            22,
+            94
+        ]
+    },
+    "translator": {
+        "documents": [
+            6
+        ]
+    },
+    "symbolic": {
+        "documents": [
+            6
+        ]
+    },
+    "compiler": {
+        "documents": [
+            6
+        ]
+    },
+    "execution": {
+        "documents": [
+            6,
+            69
+        ]
+    },
+    "feedback": {
+        "documents": [
+            6
+        ]
+    },
+    "ia": {
+        "documents": [
+            7
+        ]
+    },
+    "dependence": {
+        "documents": [
+            7
+        ]
+    },
+    "sn": {
+        "documents": [
+            7
+        ]
+    },
+    "host": {
+        "documents": [
+            7
+        ]
+    },
+    "inference": {
+        "documents": [
+            7,
+            42,
+            86,
+            87
+        ]
+    },
+    "mass": {
+        "documents": [
+            7
+        ]
+    },
+    "dust": {
+        "documents": [
+            7,
+            78
+        ]
+    },
+    "bayesn": {
+        "documents": [
+            7
+        ]
+    },
+    "investigating": {
+        "documents": [
+            7
+        ]
+    },
+    "stellar": {
+        "documents": [
+            7
+        ]
+    },
+    "redshift": {
+        "documents": [
+            7
+        ]
+    },
+    "hierarchical": {
+        "documents": [
+            7
+        ]
+    },
+    "scalable": {
+        "documents": [
+            7,
+            42
+        ]
+    },
+    "property": {
+        "documents": [
+            7
+        ]
+    },
+    "galaxy": {
+        "documents": [
+            7,
+            44,
+            85
+        ]
+    },
+    "dataset": {
+        "documents": [
+            8,
+            15
+        ]
+    },
+    "subseasonalclimateusa": {
+        "documents": [
+            8
+        ]
+    },
+    "benchmarking": {
+        "documents": [
+            8
+        ]
+    },
+    "forecasting": {
+        "documents": [
+            8
+        ]
+    },
+    "subseasonal": {
+        "documents": [
+            8
+        ]
+    },
+    "group": {
+        "documents": [
+            9
+        ]
+    },
+    "exact": {
+        "documents": [
+            9
+        ]
+    },
+    "implement": {
+        "documents": [
+            9
+        ]
+    },
+    "diverge": {
+        "documents": [
+            9
+        ]
+    },
+    "various": {
+        "documents": [
+            9
+        ]
+    },
+    "renormalization": {
+        "documents": [
+            9
+        ]
+    },
+    "example": {
+        "documents": [
+            9
+        ]
+    },
+    "efficient": {
+        "documents": [
+            10,
+            23,
+            24,
+            86
+        ]
+    },
+    "separation": {
+        "documents": [
+            10,
+            27
+        ]
+    },
+    "displacement": {
+        "documents": [
+            10
+        ]
+    },
+    "deterministic": {
+        "documents": [
+            10
+        ]
+    },
+    "tunable": {
+        "documents": [
+            10
+        ]
+    },
+    "dld": {
+        "documents": [
+            10
+        ]
+    },
+    "lateral": {
+        "documents": [
+            10
+        ]
+    },
+    "novel": {
+        "documents": [
+            10,
+            25
+        ]
+    },
+    "particle": {
+        "documents": [
+            10,
+            40
+        ]
+    },
+    "streamlinedirected": {
+        "documents": [
+            10
+        ]
+    },
+    "chip": {
+        "documents": [
+            10
+        ]
+    },
+    "microscopy": {
+        "documents": [
+            11
+        ]
+    },
+    "image": {
+        "documents": [
+            11,
+            25
+        ]
+    },
+    "compression": {
+        "documents": [
+            11
+        ]
+    },
+    "study": {
+        "documents": [
+            11,
+            12,
+            71,
+            80
+        ]
+    },
+    "based": {
+        "documents": [
+            11
+        ]
+    },
+    "empirical": {
+        "documents": [
+            11,
+            71
+        ]
+    },
+    "lost": {
+        "documents": [
+            12
+        ]
+    },
+    "model": {
+        "documents": [
+            12,
+            18,
+            32,
+            38,
+            41,
+            48,
+            56,
+            68,
+            95,
+            97
+        ]
+    },
+    "introduced": {
+        "documents": [
+            12
+        ]
+    },
+    "translating": {
+        "documents": [
+            12
+        ]
+    },
+    "translation": {
+        "documents": [
+            12,
+            21
+        ]
+    },
+    "language": {
+        "documents": [
+            12,
+            18,
+            32,
+            38,
+            68,
+            95
+        ]
+    },
+    "large": {
+        "documents": [
+            12,
+            18,
+            32,
+            38,
+            68,
+            95
+        ]
+    },
+    "bug": {
+        "documents": [
+            12
+        ]
+    },
+    "quantum": {
+        "documents": [
+            13
+        ]
+    },
+    "stochastic": {
+        "documents": [
+            13
+        ]
+    },
+    "soqcs": {
+        "documents": [
+            13
+        ]
+    },
+    "optical": {
+        "documents": [
+            13,
+            66
+        ]
+    },
+    "circuit": {
+        "documents": [
+            13
+        ]
+    },
+    "simulator": {
+        "documents": [
+            13,
+            16,
+            22
+        ]
+    },
+    "math": {
+        "documents": [
+            14
+        ]
+    },
+    "pipeline": {
+        "documents": [
+            14,
+            46,
+            70
+        ]
+    },
+    "interpreter": {
+        "documents": [
+            14,
+            91
+        ]
+    },
+    "output": {
+        "documents": [
+            14
+        ]
+    },
+    "reasoning": {
+        "documents": [
+            14,
+            69,
+            95
+        ]
+    },
+    "reproducible": {
+        "documents": [
+            14
+        ]
+    },
+    "mario": {
+        "documents": [
+            14
+        ]
+    },
+    "timecomplexity": {
+        "documents": [
+            15
+        ]
+    },
+    "bilingual": {
+        "documents": [
+            15
+        ]
+    },
+    "source": {
+        "documents": [
+            15,
+            27,
+            67
+        ]
+    },
+    "codecomplex": {
+        "documents": [
+            15
+        ]
+    },
+    "simulation": {
+        "documents": [
+            16,
+            54,
+            60,
+            67
+        ]
+    },
+    "explorer": {
+        "documents": [
+            16
+        ]
+    },
+    "spectroscopic": {
+        "documents": [
+            16
+        ]
+    },
+    "spectrograph": {
+        "documents": [
+            16,
+            46
+        ]
+    },
+    "optimizing": {
+        "documents": [
+            16
+        ]
+    },
+    "exposure": {
+        "documents": [
+            16
+        ]
+    },
+    "observing": {
+        "documents": [
+            16
+        ]
+    },
+    "endtoend": {
+        "documents": [
+            16
+        ]
+    },
+    "calculator": {
+        "documents": [
+            16,
+            51
+        ]
+    },
+    "maunakea": {
+        "documents": [
+            16
+        ]
+    },
+    "time": {
+        "documents": [
+            16
+        ]
+    },
+    "mcmchaos": {
+        "documents": [
+            17
+        ]
+    },
+    "improvising": {
+        "documents": [
+            17
+        ]
+    },
+    "chaos": {
+        "documents": [
+            17
+        ]
+    },
+    "rap": {
+        "documents": [
+            17
+        ]
+    },
+    "mcmc": {
+        "documents": [
+            17
+        ]
+    },
+    "theory": {
+        "documents": [
+            17,
+            85
+        ]
+    },
+    "music": {
+        "documents": [
+            17
+        ]
+    },
+    "fuzz4all": {
+        "documents": [
+            18
+        ]
+    },
+    "universal": {
+        "documents": [
+            18
+        ]
+    },
+    "fuzzing": {
+        "documents": [
+            18
+        ]
+    },
+    "coder": {
+        "documents": [
+            19
+        ]
+    },
+    "beyond": {
+        "documents": [
+            19
+        ]
+    },
+    "online": {
+        "documents": [
+            19
+        ]
+    },
+    "via": {
+        "documents": [
+            19,
+            30
+        ]
+    },
+    "modification": {
+        "documents": [
+            19
+        ]
+    },
+    "go": {
+        "documents": [
+            19
+        ]
+    },
+    "jumpcoder": {
+        "documents": [
+            19
+        ]
+    },
+    "autoregressive": {
+        "documents": [
+            19
+        ]
+    },
+    "header": {
+        "documents": [
+            20
+        ]
+    },
+    "function": {
+        "documents": [
+            20,
+            30
+        ]
+    },
+    "comment": {
+        "documents": [
+            20
+        ]
+    },
+    "paradox": {
+        "documents": [
+            20
+        ]
+    },
+    "assertion": {
+        "documents": [
+            21
+        ]
+    },
+    "visual": {
+        "documents": [
+            21
+        ]
+    },
+    "towards": {
+        "documents": [
+            21,
+            28
+        ]
+    },
+    "automatic": {
+        "documents": [
+            21
+        ]
+    },
+    "analytical": {
+        "documents": [
+            21
+        ]
+    },
+    "insight": {
+        "documents": [
+            21
+        ]
+    },
+    "game": {
+        "documents": [
+            22
+        ]
+    },
+    "pgx": {
+        "documents": [
+            22
+        ]
+    },
+    "parallel": {
+        "documents": [
+            22,
+            92
+        ]
+    },
+    "hardwareaccelerated": {
+        "documents": [
+            22
+        ]
+    },
+    "continual": {
+        "documents": [
+            23,
+            74
+        ]
+    },
+    "mechanism": {
+        "documents": [
+            23
+        ]
+    },
+    "observation": {
+        "documents": [
+            23
+        ]
+    },
+    "smooth": {
+        "documents": [
+            23
+        ]
+    },
+    "private": {
+        "documents": [
+            23
+        ]
+    },
+    "binary": {
+        "documents": [
+            23
+        ]
+    },
+    "esg": {
+        "documents": [
+            24
+        ]
+    },
+    "filter": {
+        "documents": [
+            24
+        ]
+    },
+    "investment": {
+        "documents": [
+            24
+        ]
+    },
+    "equity": {
+        "documents": [
+            24
+        ]
+    },
+    "computationally": {
+        "documents": [
+            24
+        ]
+    },
+    "integrated": {
+        "documents": [
+            24
+        ]
+    },
+    "quickly": {
+        "documents": [
+            24
+        ]
+    },
+    "management": {
+        "documents": [
+            24
+        ]
+    },
+    "database": {
+        "documents": [
+            24
+        ]
+    },
+    "graph": {
+        "documents": [
+            24,
+            81,
+            92,
+            97
+        ]
+    },
+    "platform": {
+        "documents": [
+            25,
+            47
+        ]
+    },
+    "crowdsourcing": {
+        "documents": [
+            25
+        ]
+    },
+    "segmentation": {
+        "documents": [
+            25
+        ]
+    },
+    "lirotai": {
+        "documents": [
+            25
+        ]
+    },
+    "retinal": {
+        "documents": [
+            25
+        ]
+    },
+    "agent": {
+        "documents": [
+            26
+        ]
+    },
+    "system": {
+        "documents": [
+            26,
+            49,
+            58,
+            75,
+            80
+        ]
+    },
+    "realworld": {
+        "documents": [
+            26
+        ]
+    },
+    "toolintegrated": {
+        "documents": [
+            26
+        ]
+    },
+    "generation": {
+        "documents": [
+            26,
+            29,
+            59,
+            62,
+            67,
+            86
+        ]
+    },
+    "enhancing": {
+        "documents": [
+            26
+        ]
+    },
+    "codeagent": {
+        "documents": [
+            26
+        ]
+    },
+    "coding": {
+        "documents": [
+            26
+        ]
+    },
+    "repolevel": {
+        "documents": [
+            26
+        ]
+    },
+    "network": {
+        "documents": [
+            27,
+            79,
+            86,
+            89
+        ]
+    },
+    "improved": {
+        "documents": [
+            27
+        ]
+    },
+    "multiband": {
+        "documents": [
+            27
+        ]
+    },
+    "scorematching": {
+        "documents": [
+            27
+        ]
+    },
+    "neural": {
+        "documents": [
+            27,
+            86
+        ]
+    },
+    "addressing": {
+        "documents": [
+            28
+        ]
+    },
+    "decisionmaking": {
+        "documents": [
+            28
+        ]
+    },
+    "banking": {
+        "documents": [
+            28
+        ]
+    },
+    "bias": {
+        "documents": [
+            28,
+            62
+        ]
+    },
+    "fair": {
+        "documents": [
+            28
+        ]
+    },
+    "ai": {
+        "documents": [
+            28,
+            65
+        ]
+    },
+    "responsible": {
+        "documents": [
+            28
+        ]
+    },
+    "alternative": {
+        "documents": [
+            29
+        ]
+    },
+    "adaptoring": {
+        "documents": [
+            29
+        ]
+    },
+    "library": {
+        "documents": [
+            29,
+            57,
+            79
+        ]
+    },
+    "provide": {
+        "documents": [
+            29
+        ]
+    },
+    "adapter": {
+        "documents": [
+            29
+        ]
+    },
+    "api": {
+        "documents": [
+            29
+        ]
+    },
+    "modelling": {
+        "documents": [
+            30,
+            93
+        ]
+    },
+    "ordinary": {
+        "documents": [
+            30
+        ]
+    },
+    "analysis": {
+        "documents": [
+            30,
+            57,
+            70,
+            83,
+            99
+        ]
+    },
+    "dynamic": {
+        "documents": [
+            30,
+            72
+        ]
+    },
+    "hazard": {
+        "documents": [
+            30
+        ]
+    },
+    "equation": {
+        "documents": [
+            30,
+            56,
+            75
+        ]
+    },
+    "differential": {
+        "documents": [
+            30
+        ]
+    },
+    "survival": {
+        "documents": [
+            30
+        ]
+    },
+    "surprise": {
+        "documents": [
+            31
+        ]
+    },
+    "geometric": {
+        "documents": [
+            31
+        ]
+    },
+    "lunch": {
+        "documents": [
+            31
+        ]
+    },
+    "conjecture": {
+        "documents": [
+            31
+        ]
+    },
+    "evaluation": {
+        "documents": [
+            32,
+            62,
+            63,
+            82
+        ]
+    },
+    "oop": {
+        "documents": [
+            32
+        ]
+    },
+    "benchmark": {
+        "documents": [
+            32,
+            62,
+            66,
+            69
+        ]
+    },
+    "objectoriented": {
+        "documents": [
+            32
+        ]
+    },
+    "programming": {
+        "documents": [
+            32,
+            72
+        ]
+    },
+    "static": {
+        "documents": [
+            33
+        ]
+    },
+    "type": {
+        "documents": [
+            33,
+            36,
+            78,
+            87,
+            88,
+            89
+        ]
+    },
+    "pyty": {
+        "documents": [
+            33
+        ]
+    },
+    "error": {
+        "documents": [
+            33
+        ]
+    },
+    "repairing": {
+        "documents": [
+            33
+        ]
+    },
+    "different": {
+        "documents": [
+            34
+        ]
+    },
+    "subsystem": {
+        "documents": [
+            34
+        ]
+    },
+    "modeling": {
+        "documents": [
+            34,
+            40,
+            66
+        ]
+    },
+    "storage": {
+        "documents": [
+            34
+        ]
+    },
+    "predict": {
+        "documents": [
+            34
+        ]
+    },
+    "mlbased": {
+        "documents": [
+            34
+        ]
+    },
+    "io": {
+        "documents": [
+            34
+        ]
+    },
+    "performance": {
+        "documents": [
+            34,
+            82
+        ]
+    },
+    "physic": {
+        "documents": [
+            35,
+            70
+        ]
+    },
+    "chemistry": {
+        "documents": [
+            35,
+            45
+        ]
+    },
+    "widget": {
+        "documents": [
+            35
+        ]
+    },
+    "research": {
+        "documents": [
+            35
+        ]
+    },
+    "extension": {
+        "documents": [
+            35
+        ]
+    },
+    "jupyter": {
+        "documents": [
+            35
+        ]
+    },
+    "education": {
+        "documents": [
+            35,
+            65
+        ]
+    },
+    "computational": {
+        "documents": [
+            35
+        ]
+    },
+    "new": {
+        "documents": [
+            36,
+            88,
+            89
+        ]
+    },
+    "latent": {
+        "documents": [
+            36,
+            88,
+            89,
+            97
+        ]
+    },
+    "generate": {
+        "documents": [
+            36,
+            68,
+            88,
+            89
+        ]
+    },
+    "attempt": {
+        "documents": [
+            36,
+            88,
+            89
+        ]
+    },
+    "space": {
+        "documents": [
+            36,
+            88,
+            89
+        ]
+    },
+    "pixelcnn": {
+        "documents": [
+            36
+        ]
+    },
+    "bridge": {
+        "documents": [
+            36,
+            88,
+            89
+        ]
+    },
+    "consistency": {
+        "documents": [
+            37
+        ]
+    },
+    "mutationbased": {
+        "documents": [
+            37
+        ]
+    },
+    "evaluating": {
+        "documents": [
+            37,
+            38
+        ]
+    },
+    "testing": {
+        "documents": [
+            37,
+            83
+        ]
+    },
+    "understanding": {
+        "documents": [
+            37,
+            69
+        ]
+    },
+    "capability": {
+        "documents": [
+            37,
+            38
+        ]
+    },
+    "llm": {
+        "documents": [
+            37
+        ]
+    },
+    "debugging": {
+        "documents": [
+            38
+        ]
+    },
+    "debugbench": {
+        "documents": [
+            38
+        ]
+    },
+    "boundary": {
+        "documents": [
+            39
+        ]
+    },
+    "wilson": {
+        "documents": [
+            39
+        ]
+    },
+    "loop": {
+        "documents": [
+            39,
+            43
+        ]
+    },
+    "rado": {
+        "documents": [
+            39
+        ]
+    },
+    "calculus": {
+        "documents": [
+            39
+        ]
+    },
+    "matroids": {
+        "documents": [
+            39
+        ]
+    },
+    "graphical": {
+        "documents": [
+            39
+        ]
+    },
+    "diagram": {
+        "documents": [
+            39,
+            53
+        ]
+    },
+    "prevents": {
+        "documents": [
+            40
+        ]
+    },
+    "nucleation": {
+        "documents": [
+            40,
+            50
+        ]
+    },
+    "growth": {
+        "documents": [
+            40,
+            48
+        ]
+    },
+    "diffusion": {
+        "documents": [
+            40,
+            97
+        ]
+    },
+    "numerical": {
+        "documents": [
+            40
+        ]
+    },
+    "ne2001p": {
+        "documents": [
+            41
+        ]
+    },
+    "electron": {
+        "documents": [
+            41
+        ]
+    },
+    "density": {
+        "documents": [
+            41
+        ]
+    },
+    "native": {
+        "documents": [
+            41
+        ]
+    },
+    "ne2001": {
+        "documents": [
+            41
+        ]
+    },
+    "galactic": {
+        "documents": [
+            41
+        ]
+    },
+    "implementation": {
+        "documents": [
+            41
+        ]
+    },
+    "process": {
+        "documents": [
+            42
+        ]
+    },
+    "gaussian": {
+        "documents": [
+            42
+        ]
+    },
+    "stan": {
+        "documents": [
+            42
+        ]
+    },
+    "temperature": {
+        "documents": [
+            43
+        ]
+    },
+    "computing": {
+        "documents": [
+            43
+        ]
+    },
+    "numerically": {
+        "documents": [
+            43
+        ]
+    },
+    "finite": {
+        "documents": [
+            43
+        ]
+    },
+    "integral": {
+        "documents": [
+            43
+        ]
+    },
+    "pysecdec": {
+        "documents": [
+            43
+        ]
+    },
+    "diffsph": {
+        "documents": [
+            44
+        ]
+    },
+    "tool": {
+        "documents": [
+            44,
+            87
+        ]
+    },
+    "dwarf": {
+        "documents": [
+            44
+        ]
+    },
+    "compute": {
+        "documents": [
+            44,
+            50
+        ]
+    },
+    "signal": {
+        "documents": [
+            44
+        ]
+    },
+    "spheroidal": {
+        "documents": [
+            44
+        ]
+    },
+    "diffuse": {
+        "documents": [
+            44
+        ]
+    },
+    "cosmic": {
+        "documents": [
+            45
+        ]
+    },
+    "gaia": {
+        "documents": [
+            45
+        ]
+    },
+    "milky": {
+        "documents": [
+            45
+        ]
+    },
+    "uniting": {
+        "documents": [
+            45
+        ]
+    },
+    "way": {
+        "documents": [
+            45
+        ]
+    },
+    "unveil": {
+        "documents": [
+            45
+        ]
+    },
+    "disc": {
+        "documents": [
+            45
+        ]
+    },
+    "apogee": {
+        "documents": [
+            45
+        ]
+    },
+    "winered": {
+        "documents": [
+            46
+        ]
+    },
+    "warp": {
+        "documents": [
+            46
+        ]
+    },
+    "reduction": {
+        "documents": [
+            46,
+            75
+        ]
+    },
+    "cosimulation": {
+        "documents": [
+            47
+        ]
+    },
+    "vehicle": {
+        "documents": [
+            47
+        ]
+    },
+    "infrastructure": {
+        "documents": [
+            47
+        ]
+    },
+    "gridaware": {
+        "documents": [
+            47
+        ]
+    },
+    "electric": {
+        "documents": [
+            47
+        ]
+    },
+    "charging": {
+        "documents": [
+            47
+        ]
+    },
+    "evecosim": {
+        "documents": [
+            47
+        ]
+    },
+    "crack": {
+        "documents": [
+            48
+        ]
+    },
+    "statistical": {
+        "documents": [
+            48,
+            99
+        ]
+    },
+    "mechanical": {
+        "documents": [
+            48
+        ]
+    },
+    "rating": {
+        "documents": [
+            49
+        ]
+    },
+    "multiteam": {
+        "documents": [
+            49
+        ]
+    },
+    "faster": {
+        "documents": [
+            49
+        ]
+    },
+    "openskill": {
+        "documents": [
+            49
+        ]
+    },
+    "multiplayer": {
+        "documents": [
+            49
+        ]
+    },
+    "asymmetric": {
+        "documents": [
+            49
+        ]
+    },
+    "determinant": {
+        "documents": [
+            50
+        ]
+    },
+    "bubbledet": {
+        "documents": [
+            50
+        ]
+    },
+    "functional": {
+        "documents": [
+            50
+        ]
+    },
+    "bubble": {
+        "documents": [
+            50
+        ]
+    },
+    "ruler": {
+        "documents": [
+            51
+        ]
+    },
+    "especially": {
+        "documents": [
+            51
+        ]
+    },
+    "bookmark": {
+        "documents": [
+            51
+        ]
+    },
+    "student": {
+        "documents": [
+            51
+        ]
+    },
+    "cosmological": {
+        "documents": [
+            51
+        ]
+    },
+    "outreach": {
+        "documents": [
+            51
+        ]
+    },
+    "penandpencil": {
+        "documents": [
+            51
+        ]
+    },
+    "teaching": {
+        "documents": [
+            51
+        ]
+    },
+    "purpose": {
+        "documents": [
+            51
+        ]
+    },
+    "everyone": {
+        "documents": [
+            51
+        ]
+    },
+    "cosmology": {
+        "documents": [
+            51
+        ]
+    },
+    "parallelogram": {
+        "documents": [
+            52
+        ]
+    },
+    "lattice": {
+        "documents": [
+            52
+        ]
+    },
+    "clean": {
+        "documents": [
+            52
+        ]
+    },
+    "interior": {
+        "documents": [
+            52
+        ]
+    },
+    "fraction": {
+        "documents": [
+            52
+        ]
+    },
+    "hull": {
+        "documents": [
+            52
+        ]
+    },
+    "continued": {
+        "documents": [
+            52
+        ]
+    },
+    "module": {
+        "documents": [
+            53,
+            76
+        ]
+    },
+    "grid": {
+        "documents": [
+            53
+        ]
+    },
+    "gridpym": {
+        "documents": [
+            53
+        ]
+    },
+    "handle": {
+        "documents": [
+            53
+        ]
+    },
+    "molecular": {
+        "documents": [
+            54
+        ]
+    },
+    "detection": {
+        "documents": [
+            54,
+            97
+        ]
+    },
+    "change": {
+        "documents": [
+            54
+        ]
+    },
+    "event": {
+        "documents": [
+            54
+        ]
+    },
+    "dupin": {
+        "documents": [
+            54
+        ]
+    },
+    "leveraging": {
+        "documents": [
+            55,
+            68
+        ]
+    },
+    "chatgpt": {
+        "documents": [
+            55,
+            91
+        ]
+    },
+    "federated": {
+        "documents": [
+            55
+        ]
+    },
+    "elementary": {
+        "documents": [
+            55
+        ]
+    },
+    "developing": {
+        "documents": [
+            55
+        ]
+    },
+    "curve": {
+        "documents": [
+            56
+        ]
+    },
+    "miscibility": {
+        "documents": [
+            56
+        ]
+    },
+    "evolutionary": {
+        "documents": [
+            56
+        ]
+    },
+    "thermodynamics": {
+        "documents": [
+            56
+        ]
+    },
+    "exoplanet": {
+        "documents": [
+            56
+        ]
+    },
+    "giant": {
+        "documents": [
+            56
+        ]
+    },
+    "state": {
+        "documents": [
+            56
+        ]
+    },
+    "jovian": {
+        "documents": [
+            56
+        ]
+    },
+    "planet": {
+        "documents": [
+            56
+        ]
+    },
+    "spatiotemporal": {
+        "documents": [
+            57
+        ]
+    },
+    "laspated": {
+        "documents": [
+            57
+        ]
+    },
+    "discrete": {
+        "documents": [
+            57
+        ]
+    },
+    "control": {
+        "documents": [
+            58,
+            74,
+            94
+        ]
+    },
+    "version": {
+        "documents": [
+            58
+        ]
+    },
+    "recognition": {
+        "documents": [
+            58
+        ]
+    },
+    "speaker": {
+        "documents": [
+            58
+        ]
+    },
+    "textmachina": {
+        "documents": [
+            59
+        ]
+    },
+    "text": {
+        "documents": [
+            59
+        ]
+    },
+    "datasets": {
+        "documents": [
+            59,
+            96
+        ]
+    },
+    "seamless": {
+        "documents": [
+            59
+        ]
+    },
+    "machinegenerated": {
+        "documents": [
+            59
+        ]
+    },
+    "toward": {
+        "documents": [
+            60,
+            64
+        ]
+    },
+    "pythonbase": {
+        "documents": [
+            60
+        ]
+    },
+    "hypergraphs": {
+        "documents": [
+            60
+        ]
+    },
+    "comprehensive": {
+        "documents": [
+            60
+        ]
+    },
+    "framework": {
+        "documents": [
+            60,
+            73,
+            86,
+            87
+        ]
+    },
+    "completion": {
+        "documents": [
+            61
+        ]
+    },
+    "iterative": {
+        "documents": [
+            61
+        ]
+    },
+    "dehallucinator": {
+        "documents": [
+            61
+        ]
+    },
+    "grounding": {
+        "documents": [
+            61
+        ]
+    },
+    "gone": {
+        "documents": [
+            62
+        ]
+    },
+    "going": {
+        "documents": [
+            62
+        ]
+    },
+    "shortcoming": {
+        "documents": [
+            62
+        ]
+    },
+    "boldly": {
+        "documents": [
+            62
+        ]
+    },
+    "exposing": {
+        "documents": [
+            62
+        ]
+    },
+    "need": {
+        "documents": [
+            63
+        ]
+    },
+    "nlp": {
+        "documents": [
+            63
+        ]
+    },
+    "talk": {
+        "documents": [
+            63
+        ]
+    },
+    "classification": {
+        "documents": [
+            63
+        ]
+    },
+    "metric": {
+        "documents": [
+            63
+        ]
+    },
+    "lilith": {
+        "documents": [
+            64
+        ]
+    },
+    "stxs": {
+        "documents": [
+            64
+        ]
+    },
+    "global": {
+        "documents": [
+            64
+        ]
+    },
+    "higgs": {
+        "documents": [
+            64
+        ]
+    },
+    "fit": {
+        "documents": [
+            64
+        ]
+    },
+    "aigenerated": {
+        "documents": [
+            65
+        ]
+    },
+    "identifying": {
+        "documents": [
+            65
+        ]
+    },
+    "assessing": {
+        "documents": [
+            65
+        ]
+    },
+    "implication": {
+        "documents": [
+            65
+        ]
+    },
+    "detector": {
+        "documents": [
+            65
+        ]
+    },
+    "effective": {
+        "documents": [
+            66
+        ]
+    },
+    "turbulence": {
+        "documents": [
+            66
+        ]
+    },
+    "hydrodynamics": {
+        "documents": [
+            67
+        ]
+    },
+    "cgkit": {
+        "documents": [
+            67
+        ]
+    },
+    "maintainable": {
+        "documents": [
+            67
+        ]
+    },
+    "flashx": {
+        "documents": [
+            67
+        ]
+    },
+    "variant": {
+        "documents": [
+            67
+        ]
+    },
+    "toolkit": {
+        "documents": [
+            67
+        ]
+    },
+    "applied": {
+        "documents": [
+            67
+        ]
+    },
+    "performant": {
+        "documents": [
+            67
+        ]
+    },
+    "deploy": {
+        "documents": [
+            68
+        ]
+    },
+    "highlevel": {
+        "documents": [
+            68
+        ]
+    },
+    "hardware": {
+        "documents": [
+            68
+        ]
+    },
+    "simulate": {
+        "documents": [
+            68,
+            91
+        ]
+    },
+    "number": {
+        "documents": [
+            68
+        ]
+    },
+    "generator": {
+        "documents": [
+            68
+        ]
+    },
+    "uniform": {
+        "documents": [
+            68
+        ]
+    },
+    "synthesis": {
+        "documents": [
+            68
+        ]
+    },
+    "cruxeval": {
+        "documents": [
+            69
+        ]
+    },
+    "concept": {
+        "documents": [
+            70
+        ]
+    },
+    "grand": {
+        "documents": [
+            70
+        ]
+    },
+    "practice": {
+        "documents": [
+            70
+        ]
+    },
+    "hllhc": {
+        "documents": [
+            70
+        ]
+    },
+    "issue": {
+        "documents": [
+            71
+        ]
+    },
+    "le": {
+        "documents": [
+            71
+        ]
+    },
+    "pypi": {
+        "documents": [
+            71
+        ]
+    },
+    "ecosystem": {
+        "documents": [
+            71,
+            76
+        ]
+    },
+    "configuration": {
+        "documents": [
+            71
+        ]
+    },
+    "shortcut": {
+        "documents": [
+            72
+        ]
+    },
+    "algebraic": {
+        "documents": [
+            72
+        ]
+    },
+    "semiring": {
+        "documents": [
+            72
+        ]
+    },
+    "polymorphic": {
+        "documents": [
+            72
+        ]
+    },
+    "fusion": {
+        "documents": [
+            72
+        ]
+    },
+    "virtual": {
+        "documents": [
+            73
+        ]
+    },
+    "twin": {
+        "documents": [
+            73
+        ]
+    },
+    "reality": {
+        "documents": [
+            73
+        ]
+    },
+    "digital": {
+        "documents": [
+            73
+        ]
+    },
+    "enabled": {
+        "documents": [
+            73
+        ]
+    },
+    "fast": {
+        "documents": [
+            74
+        ]
+    },
+    "policy": {
+        "documents": [
+            74
+        ]
+    },
+    "generalized": {
+        "documents": [
+            74
+        ]
+    },
+    "decomposition": {
+        "documents": [
+            74
+        ]
+    },
+    "bender": {
+        "documents": [
+            74
+        ]
+    },
+    "hybrid": {
+        "documents": [
+            74
+        ]
+    },
+    "solving": {
+        "documents": [
+            75
+        ]
+    },
+    "chebyshev": {
+        "documents": [
+            75
+        ]
+    },
+    "subdivision": {
+        "documents": [
+            75
+        ]
+    },
+    "multivariable": {
+        "documents": [
+            75
+        ]
+    },
+    "moduleguardunderstanding": {
+        "documents": [
+            76
+        ]
+    },
+    "conflict": {
+        "documents": [
+            76
+        ]
+    },
+    "detecting": {
+        "documents": [
+            76
+        ]
+    },
+    "examining": {
+        "documents": [
+            77
+        ]
+    },
+    "archiving": {
+        "documents": [
+            77
+        ]
+    },
+    "instagram": {
+        "documents": [
+            77
+        ]
+    },
+    "nirdust": {
+        "documents": [
+            78
+        ]
+    },
+    "hot": {
+        "documents": [
+            78
+        ]
+    },
+    "agn": {
+        "documents": [
+            78
+        ]
+    },
+    "around": {
+        "documents": [
+            78
+        ]
+    },
+    "spectrum": {
+        "documents": [
+            78
+        ]
+    },
+    "emission": {
+        "documents": [
+            78
+        ]
+    },
+    "kband": {
+        "documents": [
+            78
+        ]
+    },
+    "probing": {
+        "documents": [
+            78
+        ]
+    },
+    "2": {
+        "documents": [
+            78
+        ]
+    },
+    "tensor": {
+        "documents": [
+            79
+        ]
+    },
+    "cytnx": {
+        "documents": [
+            79
+        ]
+    },
+    "magnet": {
+        "documents": [
+            80
+        ]
+    },
+    "cell": {
+        "documents": [
+            80
+        ]
+    },
+    "nanoparticles": {
+        "documents": [
+            80
+        ]
+    },
+    "interaction": {
+        "documents": [
+            80
+        ]
+    },
+    "magnetic": {
+        "documents": [
+            80
+        ]
+    },
+    "microslide": {
+        "documents": [
+            80
+        ]
+    },
+    "permanent": {
+        "documents": [
+            80
+        ]
+    },
+    "channel": {
+        "documents": [
+            80
+        ]
+    },
+    "rust": {
+        "documents": [
+            81
+        ]
+    },
+    "engine": {
+        "documents": [
+            81
+        ]
+    },
+    "raphtory": {
+        "documents": [
+            81
+        ]
+    },
+    "temporal": {
+        "documents": [
+            81
+        ]
+    },
+    "gps": {
+        "documents": [
+            82
+        ]
+    },
+    "rasterization": {
+        "documents": [
+            82
+        ]
+    },
+    "trajectory": {
+        "documents": [
+            82
+        ]
+    },
+    "simulationbased": {
+        "documents": [
+            83
+        ]
+    },
+    "robot": {
+        "documents": [
+            83
+        ]
+    },
+    "prototype": {
+        "documents": [
+            83
+        ]
+    },
+    "quadruped": {
+        "documents": [
+            83
+        ]
+    },
+    "leg": {
+        "documents": [
+            83
+        ]
+    },
+    "kinematics": {
+        "documents": [
+            83
+        ]
+    },
+    "health": {
+        "documents": [
+            84
+        ]
+    },
+    "public": {
+        "documents": [
+            84
+        ]
+    },
+    "stream": {
+        "documents": [
+            84
+        ]
+    },
+    "largescale": {
+        "documents": [
+            84
+        ]
+    },
+    "ranking": {
+        "documents": [
+            84
+        ]
+    },
+    "outlier": {
+        "documents": [
+            84,
+            97
+        ]
+    },
+    "shape": {
+        "documents": [
+            85
+        ]
+    },
+    "statistic": {
+        "documents": [
+            85
+        ]
+    },
+    "lagrangian": {
+        "documents": [
+            85
+        ]
+    },
+    "spiking": {
+        "documents": [
+            86
+        ]
+    },
+    "spiker": {
+        "documents": [
+            86
+        ]
+    },
+    "fpga": {
+        "documents": [
+            86
+        ]
+    },
+    "accelerator": {
+        "documents": [
+            86
+        ]
+    },
+    "edge": {
+        "documents": [
+            86
+        ]
+    },
+    "microbenchmarking": {
+        "documents": [
+            87
+        ]
+    },
+    "typeevalpy": {
+        "documents": [
+            87
+        ]
+    },
+    "variational": {
+        "documents": [
+            88
+        ]
+    },
+    "autoencoder": {
+        "documents": [
+            88
+        ]
+    },
+    "generative": {
+        "documents": [
+            89
+        ]
+    },
+    "adversarial": {
+        "documents": [
+            89
+        ]
+    },
+    "poker": {
+        "documents": [
+            90
+        ]
+    },
+    "file": {
+        "documents": [
+            90
+        ]
+    },
+    "history": {
+        "documents": [
+            90
+        ]
+    },
+    "hand": {
+        "documents": [
+            90
+        ]
+    },
+    "specification": {
+        "documents": [
+            90
+        ]
+    },
+    "format": {
+        "documents": [
+            90
+        ]
+    },
+    "analyse": {
+        "documents": [
+            91
+        ]
+    },
+    "experimental": {
+        "documents": [
+            91
+        ]
+    },
+    "dialogue": {
+        "documents": [
+            91
+        ]
+    },
+    "chain": {
+        "documents": [
+            92
+        ]
+    },
+    "tree": {
+        "documents": [
+            92
+        ]
+    },
+    "markov": {
+        "documents": [
+            92
+        ]
+    },
+    "junction": {
+        "documents": [
+            92
+        ]
+    },
+    "sampling": {
+        "documents": [
+            92
+        ]
+    },
+    "decomposable": {
+        "documents": [
+            92
+        ]
+    },
+    "toolbox": {
+        "documents": [
+            93
+        ]
+    },
+    "educational": {
+        "documents": [
+            93
+        ]
+    },
+    "engagement": {
+        "documents": [
+            93
+        ]
+    },
+    "video": {
+        "documents": [
+            93
+        ]
+    },
+    "optic": {
+        "documents": [
+            94
+        ]
+    },
+    "adaptive": {
+        "documents": [
+            94
+        ]
+    },
+    "modelbased": {
+        "documents": [
+            94
+        ]
+    },
+    "experiment": {
+        "documents": [
+            94
+        ]
+    },
+    "laboratory": {
+        "documents": [
+            94
+        ]
+    },
+    "causal": {
+        "documents": [
+            95
+        ]
+    },
+    "knowledge": {
+        "documents": [
+            95
+        ]
+    },
+    "needed": {
+        "documents": [
+            95
+        ]
+    },
+    "complex": {
+        "documents": [
+            96
+        ]
+    },
+    "measuring": {
+        "documents": [
+            96
+        ]
+    },
+    "composition": {
+        "documents": [
+            96
+        ]
+    },
+    "supervised": {
+        "documents": [
+            97
+        ]
+    },
+    "augmentation": {
+        "documents": [
+            97
+        ]
+    },
+    "holographic": {
+        "documents": [
+            98
+        ]
+    },
+    "measurement": {
+        "documents": [
+            98
+        ]
+    },
+    "weak": {
+        "documents": [
+            98
+        ]
+    },
+    "massive": {
+        "documents": [
+            99
+        ]
+    },
+    "interactive": {
+        "documents": [
+            99
+        ]
+    },
+    "subsampling": {
+        "documents": [
+            99
+        ]
+    },
+    "single": {
+        "documents": [
+            99
+        ]
+    },
+    "clubear": {
+        "documents": [
+            99
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Paper Search - Crawl Success</title>
+    <!-- Add Bootstrap styles -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Add any additional styles or scripts if needed -->
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Crawling Successful!</h1>
+        <p class="text-center">The crawling process was successful. You can now proceed with searching for papers.</p>
+
+        <!-- Display log statements using Bootstrap alert -->
+        <div class="alert alert-info" role="alert">
+            <strong>Log Statements:</strong><br>
+            {% for log_statement in log_statements %}
+                {{ log_statement }}<br>
+            {% endfor %}
+        </div>
+
+        <div class="text-center">
+            <a href="{{ url_for('index') }}" class="btn btn-primary">Back to Search</a>
+        </div>
+    </div>
+</body>
+</html>

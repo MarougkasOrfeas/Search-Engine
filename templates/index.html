@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Paper Search</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Academic Paper Search</h1>
+        <!-- Crawling Form -->
+        <form action="/crawl" method="post" onsubmit="return validateCrawlForm()">
+            <hr>
+            <div class="form-row">
+                <div class="form-group col-md-8">
+                    <label for="crawl_query"><strong>Crawl Query:</strong></label>
+                    <input type="text" class="form-control" name="crawl_query" placeholder="Enter your crawl query..." required>
+                </div>
+                <div class="form-group col-md-2">
+                    <label for="max_results"><strong>Max Results:</strong></label>
+                    <select class="form-control" name="max_results">
+                        <option value="25">25</option>
+                        <option value="50">50</option>
+                        <option value="100" selected>100</option>
+                        <option value="200">200</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-2">
+                    <label>&nbsp;</label>
+                    <button type="submit" class="btn btn-success btn-block" onclick="enableCrawlQueryValidation()">Crawl</button>
+                </div>
+            </div>
+        </form>
+        <form action="/search" method="get" onsubmit="return validateForm()">
+            <div class="form-row">
+                <div class="form-group col-md-8">
+                    <label for="query"><strong>Search:</strong></label>
+                    <input type="text" class="form-control" name="query" placeholder="Enter your search query..." value="{{ query }}" required>
+                </div>
+                <div class="form-group col-md-2">
+                    <label for="search_option"><strong>Search Option: </strong></label>
+                    <select class="form-control" name="search_option">
+                        <option value="all_fields">All Fields</option>
+                        <option value="Title">Title</option>
+                        <option value="Authors">Author</option>
+                        <option value="Date">Date</option>
+                        <option value="Abstract">Abstract</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-2">
+                    <label>&nbsp;</label> <!-- Add some space -->
+                    <button type="submit" class="btn btn-primary btn-block">Search</button>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="algorithm"><strong>Select Retrieval Algorithm:</strong></label>
+                <select class="form-control" name="algorithm">
+                    <option value="no_algorithm">Simple Search</option>
+                    <option value="boolean">Boolean Retrieval</option>
+                    <option value="vector_space">Vector Space Model</option>
+                    <option value="probabilistic">Probabilistic Retrieval</option>
+                </select>
+            </div>
+             <!-- Algorithm instructions panel -->
+            <div class="card mt-3" id="algorithmInstructionsPanel">
+                <div class="card-body">
+                    <h5 class="card-title">Valid Query Examples</h5>
+                    <br>
+                    <div id="simpleSearchInstructions" class="algorithm-instructions">
+                        <p><strong>Simple Search:</strong> python, 10 January 2024, Hongjun Zhang<br>
+                            <i>(It supports only 1 term and needs to be exactly as the data in order to bring results)</i> </p>
+                    </div>
+                    <div id="booleanRetrievalInstructions" class="algorithm-instructions">
+                        <p><strong>Boolean Retrieval:</strong> python AND 10 January 2024, python OR java, python NOT HongjunZhang <br>
+                            <i>(It supports only 2 terms. Expressions like this: python OR java AND 10 January 2024 will be handled as: python OR java)</i> </p>
+
+                    </div>
+                    <div id="vectorSpaceInstructions" class="algorithm-instructions">
+                        <p><strong>Vector Space Model:</strong> testing debugging python <br>
+                        <i>(It supports multiple terms. Terms must be separated by space. Spaces are recognised as term division)</i></p>
+
+                    </div>
+                    <div id="probabilisticRetrievalInstructions" class="algorithm-instructions">
+                        <p><strong>Probabilistic Retrieval:</strong> testing debugging python<br>
+                        <i>(It supports multiple terms. Terms must be separated by space. Spaces are recognised as term division)</i></p>
+                    </div>
+                    <i>NOTE: Queries must follow this format in order to function correctly!</i><br>
+                    <i>NOTE2: All Algorithms take into account the search option. Double check it before you press search!</i>
+                </div>
+            </div>
+        </form>
+        <script>
+            function enableCrawlQueryValidation() {
+                document.getElementById('crawl_query').required = true;
+                return true;  // Allow the form submission to proceed
+            }
+        </script>
+    </div>
+</body>
+</html>
